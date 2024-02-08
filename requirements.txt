@@ -1,0 +1,3 @@
+pandas == 1.5.3
+xlrd == 2.0.1
+selenium == 4.17.2
